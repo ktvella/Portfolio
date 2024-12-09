@@ -1,2 +1,4 @@
-This is an example project uploading to practice with GitHub
-It is a simple project looking at the quartiles of life expectancy data 
+Katie Vella
+
+I am a Data Scientist in the Manufacturing field, leveraging data science to drive innocation and efficiency in the manufacturing process. 
+
